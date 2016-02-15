@@ -1,0 +1,8 @@
+{
+    "slug": "ypp",
+    "name": "Ypp Default Theme",
+    "author": "YPP",
+    "description": "This is the default theme for YPPv2.",
+    "version": "1.0.0",
+    "parent": "default"
+}
